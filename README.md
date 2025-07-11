@@ -4,17 +4,17 @@ A simple and responsive movie search app built with **React JS**, **HTML**, **CS
 
 ---
 
-## ✅ Features
+## Features
 
-- 🔎 Search for movies by name
-- 🖼️ View poster, title, year, genre, plot, and actors
-- 📱 Responsive design using Bootstrap
-- ⚡ Fast and clean UI using React
-- 🔗 Uses [OMDb API](https://www.omdbapi.com/) for movie data
+- Search for movies by name
+- View poster, title, year, genre, plot, and actors
+- Responsive design using Bootstrap
+- Fast and clean UI using React
+- Uses [OMDb API](https://www.omdbapi.com/) for movie data
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **React JS** – UI components and state management
 - **HTML5 & CSS3** – Structure and styling
@@ -22,12 +22,3 @@ A simple and responsive movie search app built with **React JS**, **HTML**, **CS
 - **OMDb API** – Fetch movie details
 
 ---
-
-## 🚀 How to Run This Project
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/movie-search-app.git
-cd movie-search-app
-```
